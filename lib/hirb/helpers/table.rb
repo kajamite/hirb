@@ -116,10 +116,10 @@ class Helpers::Table
     #    Hirb::Helpers::Table.render [{:age=>10, :weight=>100}, {:age=>80, :weight=>500}], :style=> :simple}
     def render(rows, options={})
       choose_style(rows, options)
-    rescue TooManyFieldsForWidthError
-      $stderr.puts "", "** Hirb Warning: Too many fields for the current width. Configure your width " +
-        "and/or fields to avoid this error. Defaulting to a vertical table. **"
-      Helpers::VerticalTable.render(rows, options)
+    # rescue TooManyFieldsForWidthError
+    #   $stderr.puts "", "** Hirb Warning: Too many fields for the current width. Configure your width " +
+    #     "and/or fields to avoid this error. Defaulting to a vertical table. **"
+    #   Helpers::VerticalTable.render(rows, options)
     end
 
     def choose_style(rows, options)

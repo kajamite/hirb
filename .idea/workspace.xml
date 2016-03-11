@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="416be646-ee1c-4838-bfac-0f05a0c48167" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/hirb/helpers/table.rb" afterPath="$PROJECT_DIR$/lib/hirb/helpers/table.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/hirb/view.rb" afterPath="$PROJECT_DIR$/lib/hirb/view.rb" />
+    </list>
+    <ignored path="hirb.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.bundle/" />
+    <ignored path="$PROJECT_DIR$/vendor/bundle/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="hirb" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="view.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/hirb/view.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="124" column="38" selection-start-line="124" selection-start-column="38" selection-end-line="124" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lib/hirb/helpers/table.rb" />
+        <option value="$PROJECT_DIR$/lib/hirb/view.rb" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1634" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hirb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hirb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hirb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hirb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hirb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hirb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hirb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hirb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hirb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hirb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hirb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helpers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="416be646-ee1c-4838-bfac-0f05a0c48167" name="Default" comment="" />
+      <created>1457657627691</created>
+      <option name="number" value="Default" />
+      <updated>1457657627691</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1634" height="1027" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2741738" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881773" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3140394" sideWeight="0.41925925" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32537314" sideWeight="0.58" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962963" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23703703" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32068545" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3275862" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48063782" sideWeight="0.5881482" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lib/hirb/formatter.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="74" column="13" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
+          <folding>
+            <marker date="1457657483000" expanded="true" signature="11:5543" placeholder=" ... end" />
+            <marker date="1457657483000" expanded="true" signature="14:167" placeholder="#..." />
+            <marker date="1457657483000" expanded="true" signature="185:5539" placeholder=" ... end" />
+            <marker date="1457657483000" expanded="true" signature="201:601" placeholder=" ... end" />
+            <marker date="1457657483000" expanded="true" signature="208:376" placeholder="#..." />
+            <marker date="1457657483000" expanded="true" signature="420:559" placeholder="#..." />
+            <marker date="1457657483000" expanded="true" signature="733:815" placeholder=" ... end" />
+            <marker date="1457657483000" expanded="true" signature="821:2026" placeholder="#..." />
+            <marker date="1457657483000" expanded="true" signature="2041:2063" placeholder=" ... end" />
+            <marker date="1457657483000" expanded="true" signature="2214:2307" placeholder=" ... end" />
+            <marker date="1457657483000" expanded="true" signature="2313:2780" placeholder="#..." />
+            <marker date="1457657483000" expanded="true" signature="2830:3090" placeholder=" ... end" />
+            <marker date="1457657483000" expanded="true" signature="3127:3224" placeholder=" ... end" />
+            <marker date="1457657483000" expanded="true" signature="3180:3208" placeholder="{ ... }" />
+            <marker date="1457657483000" expanded="true" signature="3273:3848" placeholder=" ... end" />
+            <marker date="1457657483000" expanded="true" signature="3357:3410" placeholder="{ ... }" />
+            <marker date="1457657483000" expanded="true" signature="3594:3840" placeholder="if ... end" />
+            <marker date="1457657483000" expanded="true" signature="3888:4085" placeholder=" ... end" />
+            <marker date="1457657483000" expanded="true" signature="3964:4033" placeholder="do ... end" />
+            <marker date="1457657483000" expanded="true" signature="4125:4257" placeholder=" ... end" />
+            <marker date="1457657483000" expanded="true" signature="4179:4201" placeholder="{ ... }" />
+            <marker date="1457657483000" expanded="true" signature="4308:4406" placeholder=" ... end" />
+            <marker date="1457657483000" expanded="true" signature="4412:4567" placeholder="#..." />
+            <marker date="1457657483000" expanded="true" signature="4602:4681" placeholder=" ... end" />
+            <marker date="1457657483000" expanded="true" signature="4723:5078" placeholder=" ... end" />
+            <marker date="1457657483000" expanded="true" signature="4776:4788" placeholder="{ ... }" />
+            <marker date="1457657483000" expanded="true" signature="4865:4991" placeholder="{ ... }" />
+            <marker date="1457657483000" expanded="true" signature="4938:4983" placeholder="{ ... }" />
+            <marker date="1457657483000" expanded="true" signature="5048:5070" placeholder="{ ... }" />
+            <marker date="1457657483000" expanded="true" signature="5125:5456" placeholder=" ... end" />
+            <marker date="1457657483000" expanded="true" signature="5132:5448" placeholder="if ... end" />
+            <marker date="1457657483000" expanded="true" signature="5484:5517" placeholder=" ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/hirb/helpers/table.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="60" column="20" selection-start-line="60" selection-start-column="6" selection-end-line="60" selection-end-column="20" />
+          <folding>
+            <marker date="1457657718000" expanded="true" signature="113:15066" placeholder=" ... end" />
+            <marker date="1457657718000" expanded="true" signature="114:1995" placeholder="#..." />
+            <marker date="1457657718000" expanded="true" signature="2016:15062" placeholder=" ... end" />
+            <marker date="1457657718000" expanded="true" signature="2128:2149" placeholder=" ... end" />
+            <marker date="1457657718000" expanded="true" signature="2535:8178" placeholder=" ... end" />
+            <marker date="1457657718000" expanded="true" signature="2541:6535" placeholder="#..." />
+            <marker date="1457657718000" expanded="true" signature="6568:6892" placeholder=" ... end" />
+            <marker date="1457657718000" expanded="true" signature="6607:6884" placeholder="#..." />
+            <marker date="1457657718000" expanded="true" signature="6929:7662" placeholder=" ... end" />
+            <marker date="1457657718000" expanded="true" signature="6936:7654" placeholder="case ... end" />
+            <marker date="1457657718000" expanded="true" signature="7694:7979" placeholder="#..." />
+            <marker date="1457657718000" expanded="true" signature="8255:8294" placeholder=" ... end" />
+            <marker date="1457657718000" expanded="true" signature="8404:9084" placeholder=" ... end" />
+            <marker date="1457657718000" expanded="true" signature="8814:8851" placeholder="{ ... }" />
+            <marker date="1457657718000" expanded="true" signature="8936:9041" placeholder="if ... end" />
+            <marker date="1457657718000" expanded="true" signature="9108:9663" placeholder=" ... end" />
+            <marker date="1457657718000" expanded="true" signature="9297:9528" placeholder="if ... end" />
+            <marker date="1457657718000" expanded="true" signature="9366:9378" placeholder="{ ... }" />
+            <marker date="1457657718000" expanded="true" signature="9423:9448" placeholder="{ ... }" />
+            <marker date="1457657718000" expanded="true" signature="9564:9646" placeholder="do ... end" />
+            <marker date="1457657718000" expanded="true" signature="9685:10352" placeholder=" ... end" />
+            <marker date="1457657718000" expanded="true" signature="9713:9845" placeholder="if ... end" />
+            <marker date="1457657718000" expanded="true" signature="9766:9837" placeholder="{ ... }" />
+            <marker date="1457657718000" expanded="true" signature="9880:9967" placeholder="do ... end" />
+            <marker date="1457657718000" expanded="true" signature="9912:9959" placeholder="{ ... }" />
+            <marker date="1457657718000" expanded="true" signature="10024:10062" placeholder="{ ... }" />
+            <marker date="1457657718000" expanded="true" signature="10147:10169" placeholder="{ ... }" />
+            <marker date="1457657718000" expanded="true" signature="10206:10218" placeholder="{ ... }" />
+            <marker date="1457657718000" expanded="true" signature="10250:10311" placeholder="do ... end" />
+            <marker date="1457657718000" expanded="true" signature="10371:10818" placeholder=" ... end" />
+            <marker date="1457657718000" expanded="true" signature="10405:10429" placeholder="{ ... }" />
+            <marker date="1457657718000" expanded="true" signature="10434:10664" placeholder="if ... end" />
+            <marker date="1457657718000" expanded="true" signature="10669:10800" placeholder="if ... end" />
+            <marker date="1457657718000" expanded="true" signature="10716:10792" placeholder="{ ... }" />
+            <marker date="1457657718000" expanded="true" signature="10832:11080" placeholder=" ... end" />
+            <marker date="1457657718000" expanded="true" signature="10851:10991" placeholder="unless ... end" />
+            <marker date="1457657718000" expanded="true" signature="11101:11166" placeholder=" ... end" />
+            <marker date="1457657718000" expanded="true" signature="11187:11222" placeholder=" ... end" />
+            <marker date="1457657718000" expanded="true" signature="11249:11499" placeholder=" ... end" />
+            <marker date="1457657718000" expanded="true" signature="11527:11806" placeholder=" ... end" />
+            <marker date="1457657718000" expanded="true" signature="11600:11652" placeholder="{ ... }" />
+            <marker date="1457657718000" expanded="true" signature="11835:11918" placeholder=" ... end" />
+            <marker date="1457657718000" expanded="true" signature="11852:11912" placeholder="{ ... }" />
+            <marker date="1457657718000" expanded="true" signature="11956:12175" placeholder=" ... end" />
+            <marker date="1457657718000" expanded="true" signature="12194:12413" placeholder=" ... end" />
+            <marker date="1457657718000" expanded="true" signature="12209:12407" placeholder="do ... end" />
+            <marker date="1457657718000" expanded="true" signature="12445:12564" placeholder=" ... end" />
+            <marker date="1457657718000" expanded="true" signature="12591:12841" placeholder=" ... end" />
+            <marker date="1457657718000" expanded="true" signature="12639:12835" placeholder="if ... end" />
+            <marker date="1457657718000" expanded="true" signature="12874:12967" placeholder=" ... end" />
+            <marker date="1457657718000" expanded="true" signature="12895:12961" placeholder="{ ... }" />
+            <marker date="1457657718000" expanded="true" signature="13005:13165" placeholder=" ... end" />
+            <marker date="1457657718000" expanded="true" signature="13062:13159" placeholder="{ ... }" />
+            <marker date="1457657718000" expanded="true" signature="13185:13261" placeholder=" ... end" />
+            <marker date="1457657718000" expanded="true" signature="13289:13345" placeholder=" ... end" />
+            <marker date="1457657718000" expanded="true" signature="13433:13773" placeholder=" ... end" />
+            <marker date="1457657718000" expanded="true" signature="13485:13521" placeholder="{ ... }" />
+            <marker date="1457657718000" expanded="true" signature="13549:13569" placeholder="{ ... }" />
+            <marker date="1457657718000" expanded="true" signature="13585:13749" placeholder="do ... end" />
+            <marker date="1457657718000" expanded="true" signature="13613:13741" placeholder="do ... end" />
+            <marker date="1457657718000" expanded="true" signature="13806:14011" placeholder=" ... end" />
+            <marker date="1457657718000" expanded="true" signature="13832:14005" placeholder="do ... end" />
+            <marker date="1457657718000" expanded="true" signature="13870:13997" placeholder="{ ... }" />
+            <marker date="1457657718000" expanded="true" signature="13887:13989" placeholder="if ... end" />
+            <marker date="1457657718000" expanded="true" signature="13900:13930" placeholder="{ ... }" />
+            <marker date="1457657718000" expanded="true" signature="14038:14460" placeholder=" ... end" />
+            <marker date="1457657718000" expanded="true" signature="14201:14454" placeholder="{ ... }" />
+            <marker date="1457657718000" expanded="true" signature="14233:14448" placeholder="{ ... }" />
+            <marker date="1457657718000" expanded="true" signature="14492:14630" placeholder=" ... end" />
+            <marker date="1457657718000" expanded="true" signature="14659:14864" placeholder=" ... end" />
+            <marker date="1457657718000" expanded="true" signature="14674:14858" placeholder="{ ... }" />
+            <marker date="1457657718000" expanded="true" signature="14700:14852" placeholder="{ ... }" />
+            <marker date="1457657718000" expanded="true" signature="14783:14809" placeholder="{ ... }" />
+            <marker date="1457657718000" expanded="true" signature="14978:15044" placeholder=" ... end" />
+            <marker date="1457657718000" expanded="true" signature="15000:15038" placeholder="{ ... }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/hirb/view.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="124" column="38" selection-start-line="124" selection-start-column="38" selection-end-line="124" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

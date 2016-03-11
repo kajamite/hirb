@@ -121,6 +121,8 @@ module Hirb
       # Hirb::Formatter.format_output(). Returns true if successful and false if no formatting is done or if not enabled.
       def view_output(output, options={})
         enabled? && config[:formatter] && render_output(output, options)
+      rescue Helpers::Table::TooManyFieldsForWidthError
+        # do fucking nothing, hello Lev
       rescue Exception=>e
         if config[:ignore_errors]
           $stderr.puts "Hirb Error: #{e.message}"
